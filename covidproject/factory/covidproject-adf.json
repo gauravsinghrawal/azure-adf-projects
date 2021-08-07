@@ -1,0 +1,9 @@
+{
+	"name": "covidproject-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2d16504-a6ba-4dda-8989-bcfbd5f2a744",
+		"tenantId": "b9bf5326-884b-44af-8bab-fc2a6bc03091"
+	}
+}
