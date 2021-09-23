@@ -4,6 +4,7 @@
 		"activities": [
 			{
 				"name": "Execute Ingest Population Data",
+				"description": "Execute",
 				"type": "ExecutePipeline",
 				"dependsOn": [],
 				"userProperties": [],
