@@ -1,0 +1,9 @@
+{
+	"name": "gsr-adf",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a7bec33e-efc3-4f3b-b032-40889a603252",
+		"tenantId": "b9bf5326-884b-44af-8bab-fc2a6bc03091"
+	}
+}
