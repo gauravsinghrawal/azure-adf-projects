@@ -18,6 +18,7 @@
 			},
 			{
 				"name": "Process Population Data",
+				"description": "Processing DF",
 				"type": "ExecutePipeline",
 				"dependsOn": [
 					{
