@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
-			"name": "lookup"
+			"name": "ds_covidproject/lookup"
 		},
 		"annotations": [],
 		"type": "Json",

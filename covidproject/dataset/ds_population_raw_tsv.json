@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
-			"name": "raw"
+			"name": "ds_covidproject/raw"
 		},
 		"annotations": [],
 		"type": "DelimitedText",

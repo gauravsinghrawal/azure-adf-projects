@@ -6,7 +6,7 @@
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
-			"name": "processed"
+			"name": "ds_covidproject/processed"
 		},
 		"annotations": [],
 		"type": "DelimitedText",
